@@ -1,0 +1,1 @@
+﻿scaffold-dbContext "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DevDB;Integrated Security=True;Connect Timeout=60;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -context "DevDBContext" -f
